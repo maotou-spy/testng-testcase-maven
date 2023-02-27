@@ -7,11 +7,9 @@ This project contains a set of TestNG test cases for testing functionals of a we
 
 The following test cases are included in this project:
 
-*`testValidLogin`: verifies that a user can successfully log in with valid username and password.
+*`testLoginSuccess()`: verifies that a user can successfully log in with valid username and password.
 
-*`testInvalidLogin`: verifies that a user cannot log in with invalid username and password.
-
-*`testEmptyFields`: verifies that a user cannot log in with empty username and/or password fields.
+*`testLoginFailure()`: verifies that a user cannot log in with invalid username and password.
 
 ### Dependencies
 
