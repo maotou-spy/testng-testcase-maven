@@ -13,13 +13,13 @@ The following test cases are included in this project:
 
 *`testGetFibonacciNumber(int n, int expected)`: verifies a list of fibonacci numbers where n is position of number, expected is a value
 
-### Dependencies
-
 *`testSetterIdWithNegativeNumber()`: verifies in model Student that Id can not be a negative number
 
 *`testSetterAgeWithNegativeNumber()`: verifies in model Student that Age can not be a negative number
 
 *`testGetterOfStudentModel()`: verifies getters of Student model
+
+### Dependencies
 
 This project has the following dependency:
 
