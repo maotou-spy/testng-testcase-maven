@@ -11,7 +11,14 @@ The following test cases are included in this project:
 
 *`testLoginFailure()`: verifies that a user cannot log in with invalid username and password.
 
+*`testGetFibonacciNumber(int n, int expected)`: verifies a list of fibonacci numbers where n is position of number, expected is a value
 ### Dependencies
+
+*`testSetterIdWithNegativeNumber()`: verifies in model Student that Id can not be a negative number
+
+*`testSetterAgeWithNegativeNumber()`: verifies in model Student that Age can not be a negative number
+
+*`testGetterOfStudentModel()`: verifies getters of Student model
 
 This project has the following dependency:
 
