@@ -29,7 +29,7 @@ This project has the following dependency:
 
 ![source code with TestNG - Test Case](https://raw.githubusercontent.com/maotou-spy/testng-testcase-maven/main/screenshots/screenshot_1677469446.webp)
 ![source code with TestNG - Test Case](https://github.com/maotou-spy/testng-testcase-maven/blob/main/screenshots/Screenshot_20230227_111412.webp)
-![source code with TestNG - Test Case](https://github.com/maotou-spy/testng-testcase-maven/blob/main/screenshots/Screenshot_20230227_111412.webp)
+![source code with TestNG - Test Case](https://raw.githubusercontent.com/maotou-spy/testng-testcase-maven/main/screenshots/Screenshot_20230227_111350.webp)
 
 ### Contributing
 
