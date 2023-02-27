@@ -19,7 +19,7 @@ This project has the following dependency:
 
 ### Screenshorts
 
-![source code with TestNG - Test Case]()
+![source code with TestNG - Test Case](https://raw.githubusercontent.com/maotou-spy/testng-testcase-maven/main/screenshots/screenshot_1677469446.webp)
 
 ### Contributing
 
